@@ -31,8 +31,10 @@ The trained model is deployed as a serverless FastAPI endpoint using Modal, enab
 ## How to Run (Training)
 ```bash
 python train.py
+```
 
 ## How to Run (Training)
 ```bash
 modal run main.py
+```
 
