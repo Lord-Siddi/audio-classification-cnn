@@ -1,0 +1,30 @@
+# ======================
+# Python / ML
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+
+# Model weights
+*.pth
+*.pt
+
+# Training logs
+tensorboard_logs/
+runs/
+
+# ======================
+# Audio files
+# ======================
+*.wav
+*.mp3
+
+# ======================
+# OS / IDE
+# ======================
+.DS_Store
+.idea/
